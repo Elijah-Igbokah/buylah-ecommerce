@@ -1,0 +1,13 @@
+.homepage{
+    padding: 20px 50px;
+    background: red;
+
+    .directory-menu{
+        display: flex;
+        
+        .menu-item{
+            min-width: 300px;
+            min-height: 200px;
+        }
+    }
+}
